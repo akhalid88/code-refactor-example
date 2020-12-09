@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Code Refactor Example
 ### This is my README file. There are many like it, but this one is mine
 
@@ -65,7 +64,3 @@ This Project is licensed under MIT license
 -----------------------
 ## Acknowledgements
 
-=======
-# code-refactor-example
-This is my README, there are many like it but this one is mine.
->>>>>>> c2194d3dfc99a45f35319bf7f6cc3b97a75e42ee
