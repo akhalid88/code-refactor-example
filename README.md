@@ -2,12 +2,12 @@
 ### This is my README file. There are many like it, but this one is mine
 
 -----------------------
-## Site Picture
-![Site](assets/readme-assets/site-picture-example.png)
+## Description
+This site is an example in refactoring HTML and CSS code.  My 'employer' tasked me with cleaning up Horiseon webpage. While the site was functional from a users perspecive, the underlying code could be cleaned up to make it easier to read for future developers looking to make changes.
 
 -----------------------
-## Description
-This site is an example in refactoring HTML and CSS code.  My 'employer' tasked me with cleaning up Horiseon webpage. While the site was functional from a users perspecive, the underlyting code could be cleaned up tomake it easier to read for future developers looking to make changes. 
+## Site Picture
+![Site](assets/readme-assets/site-picture-example.png)
 
 -----------------------
 ## Code Snippet
@@ -72,5 +72,3 @@ This Project is licensed under MIT license
 - Jerome Chenette (Instructor)
 - Manuel Nunes (TA)
 - Mahisha Manikandan (TA)
-
-
