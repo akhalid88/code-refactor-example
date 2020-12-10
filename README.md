@@ -65,7 +65,7 @@ This Project is licensed under MIT license
 
 [LinkedIn](https://www.linkedin.com/in/abdullahkhalid/)
 <br>
-[Github](https://github.com/akhalid88)
+[GitHub](https://github.com/akhalid88)
 
 -----------------------
 ## Acknowledgements
