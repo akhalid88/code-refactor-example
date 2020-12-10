@@ -7,12 +7,13 @@
 
 -----------------------
 ## Description
-This site is an example in refactoring HTML and CSS code.  My 'employer' tasked me with cleaning up Horiseon webpage. 
+This site is an example in refactoring HTML and CSS code.  My 'employer' tasked me with cleaning up Horiseon webpage. While the site was functional from a users perspecive, the underlyting code could be cleaned up tomake it easier to read for future developers looking to make changes. 
 
 -----------------------
 ## Code Snippet
 Changed div tags to section and article semantic elements and made necessary adjustments to css file. Added alt tags to all images.
 
+NEW CODE
 ```
 <section>
     <article id="search-engine-optimization" class="search-engine-optimization">
@@ -24,7 +25,18 @@ Changed div tags to section and article semantic elements and made necessary adj
     </article>
 </section>
 ```
-
+OLD CODE
+```
+<div>
+    <div id="search-engine-optimization" class="search-engine-optimization">
+        <img src="./assets/images/search-engine-optimization.jpg" class="float-left"/>
+        <h2>Search Engine Optimization</h2>
+        <p>
+            ...
+        </p>
+    </div>
+</div>
+```
 -----------------------
 ## Prerequisites
 A computer with an active internet connection
