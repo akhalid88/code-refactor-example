@@ -3,19 +3,12 @@
 
 -----------------------
 ## Site Picture
-![Image](assets/readme-assets/site-picture-example.png)
+![Site](assets/readme-assets/site-picture-example.png)
 
 -----------------------
 ## Description
-This site is an example in refactoring HTML and CSS code.  Tasked with cleaning up 
+This site is an example in refactoring HTML and CSS code.  My 'employer' tasked me with cleaning up Horiseon webpage. 
 
-### User Story
-
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
 -----------------------
 ## Code Snippet
 Changed div tags to section and article semantic elements and made necessary adjustments to css file. Added alt tags to all images.
@@ -34,7 +27,7 @@ Changed div tags to section and article semantic elements and made necessary adj
 
 -----------------------
 ## Prerequisites
-None
+A computer with an active internet connection
 
 -----------------------
 ## Installing instructions
@@ -56,11 +49,16 @@ https://akhalid88.github.io/code-refactor-example/
 This Project is licensed under MIT license
 
 -----------------------
-### Author: Muhammad A Khalid
-### LinkedIn: [link]
-### Github: [Link]
-### Portfolio: [Link]
+## Author: Muhammad A Khalid
+
+[LinkedIn](https://www.linkedin.com/in/abdullahkhalid/)
+<br>
+[Github](https://github.com/akhalid88)
 
 -----------------------
 ## Acknowledgements
+- Jerome Chenette (Instructor)
+- Manuel Nunes (TA)
+- Mahisha Manikandan (TA)
+
 
