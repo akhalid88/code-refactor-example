@@ -6,7 +6,7 @@
 This site is an example in refactoring HTML and CSS code.  My 'employer' tasked me with cleaning up Horiseon webpage. While the site was functional from a users perspecive, the underlying code could be cleaned up to make it easier to read for future developers looking to make changes.
 
 -----------------------
-## Site Picture
+## Sample
 ![Site](assets/readme-assets/site-picture-example.png)
 
 -----------------------
@@ -57,10 +57,6 @@ None
 https://akhalid88.github.io/code-refactor-example/ 
 
 -----------------------
-## Licenses
-This Project is licensed under MIT license
-
------------------------
 ## Author: Muhammad A Khalid
 
 [LinkedIn](https://www.linkedin.com/in/abdullahkhalid/)
@@ -72,3 +68,4 @@ This Project is licensed under MIT license
 - Jerome Chenette (Instructor)
 - Manuel Nunes (TA)
 - Mahisha Manikandan (TA)
+- UC Berkeley Coding Bootcamp

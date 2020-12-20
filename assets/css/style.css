@@ -85,38 +85,12 @@ section {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* Condensed to above */
-/* .online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-} */
 
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
-/* Condensed to above */
-/* .online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-} */
 
 .search-engine-optimization h2,
 .online-reputation-management h2,
@@ -124,16 +98,6 @@ section {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* Condensed to above */
-/* .online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-} */
 
 aside {
     margin-right: 20px;
@@ -152,16 +116,6 @@ aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/* Condensed to above */
-/* .benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
 
 .benefit-lead h3,
 .benefit-brand h3,
@@ -169,16 +123,6 @@ aside {
     margin-bottom: 10px;
     text-align: center;
 }
-/* Condensed to above */
-/* .benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} */
 
 .benefit-lead img,
 .benefit-brand img,
@@ -187,18 +131,6 @@ aside {
     margin: 10px auto;
     max-width: 150px;
 }
-/* Condensed to above */
-/* .benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-} */
 
 footer {
     padding: 30px;
